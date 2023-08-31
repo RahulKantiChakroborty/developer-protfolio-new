@@ -111,6 +111,12 @@ header {
     max-width: 500px;
 }
 
+/* main styles */
+main {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
 .banner-profle-picture {
     width: 500px;
 }
@@ -122,5 +128,14 @@ header {
     padding: 130px;
     border-radius: 10px;
     background-color: #FFF8F3;
-    margin: 130px 230px 130px 230px;
+    margin: 130px 0px;
+}
+
+.about-info-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.about-info {
+    text-align: center;
 }
