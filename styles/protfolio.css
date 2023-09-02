@@ -207,3 +207,11 @@ main section {
     margin-top: 50px;
     text-align: center;
 }
+
+/* footer styles */
+footer {
+    display: flex;
+    background-color: #FFF8F3;
+    margin-top: 113px;
+    padding: 130px 230px;
+}
